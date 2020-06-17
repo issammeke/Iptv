@@ -47,6 +47,7 @@ http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59561?chec
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59562?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT FORMULA 1 HD
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59564?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 HD
 http://srv.maxptv.net:8080/BMW498/321321/529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 SD
@@ -79,6 +80,7 @@ http://doubleagechanmain.com:80/123456/123456/9184?checkedby:iptvcat.com
 http://doubleagechanmain.com:80/123456/123456/9185?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
 http://doubleagechanmain.com:80/123456/123456/9187?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/lsg8u59.png" group-title="Sport",Real Madrid TV
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",NewTV Super sports HD,NewTV未来电视 超级体育
@@ -721,200 +723,163 @@ http://skdn.redi-vo.com/iptv/ch6534?code=240137685662837&key=38539
 http://skdn.redi-vo.com/iptv/ch6535?code=240137685662837&key=32644
 #EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6536.png",Teletoon + Cy
 http://skdn.redi-vo.com/iptv/ch6536?code=240137685662837&key=28429
-#EXTINF:-1 tvg-ID="" tvg-name="Holland " tvg-logo="" group-title="Nederland ",★----- Nederland-----★
-http://185.71.66.42:88/live///584.ts
-#EXTINF:-1 tvg-ID="" tvg-name="01-NPO1" tvg-logo="" group-title="Nederland",01-NPO1
-http://185.71.66.42:88/live///584.ts
-#EXTINF:-1 tvg-ID="" tvg-name="02-NPO2" tvg-logo="" group-title="Nederland",02-NPO2
-http://185.71.66.42:88/live///583.ts
-#EXTINF:-1 tvg-ID="" tvg-name="03-NPO3" tvg-logo="" group-title="Nederland",03-NPO3
-http://185.71.66.42:88/live///582.ts
-#EXTINF:-1 tvg-ID="" tvg-name="04-NPO Zapp Xtra" tvg-logo="" group-title="Nederland",04-NPO Zapp Xtra
-http://185.71.66.42:88/live///2201.ts
-#EXTINF:-1 tvg-ID="" tvg-name="06-NPO Politiek" tvg-logo="" group-title="Nederland",06-NPO Politiek
-http://185.71.66.42:88/live///2202.ts
-#EXTINF:-1 tvg-ID="" tvg-name="07-RTL4" tvg-logo="" group-title="Nederland",07-RTL4
-http://185.71.66.42:88/live///58.ts
-#EXTINF:-1 tvg-ID="" tvg-name="08-RTL5" tvg-logo="" group-title="Nederland ",08-RTL5
-http://185.71.66.42:88/live///55.ts
-#EXTINF:-1 tvg-ID="" tvg-name="09-RTL7" tvg-logo="" group-title="Nederland ",09-RTL7
-http://185.71.66.42:88/live///57.ts
-#EXTINF:-1 tvg-ID="" tvg-name="10-RTL8" tvg-logo="" group-title="Nederland",10-RTL8
-http://185.71.66.42:88/live///189.ts
-#EXTINF:-1 tvg-ID="" tvg-name="11-RTL Z " tvg-logo="" group-title="Nederland",11-RTL Z 
-http://185.71.66.42:88/live///2187.ts
-#EXTINF:-1 tvg-ID="" tvg-name="12-RTL Crime" tvg-logo="" group-title="Nederland",12-RTL Crime
-http://185.71.66.42:88/live///2171.ts
-#EXTINF:-1 tvg-ID="" tvg-name="13-RTL Lounge" tvg-logo="" group-title="Nederland",13-RTL Lounge
-http://185.71.66.42:88/live///2173.ts
-#EXTINF:-1 tvg-ID="" tvg-name="14-SBS6" tvg-logo="" group-title="Nederland",14-SBS6
-http://185.71.66.42:88/live///125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="15-SBS9" tvg-logo="" group-title="Nederland",15-SBS9
-http://185.71.66.42:88/live///3445.ts
-#EXTINF:-1 tvg-ID="" tvg-name="16-Net5 tv" tvg-logo="" group-title="Nederland",16-Net5 tv
-http://185.71.66.42:88/live///2169.ts
-#EXTINF:-1 tvg-ID="" tvg-name="17-AT5" tvg-logo="" group-title="Nederland",17-AT5
-http://185.71.66.42:88/live///2188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="20-Fox Sports 1" tvg-logo="" group-title="Nederland ",20-Fox Sports 1
-http://185.71.66.42:88/live///122.ts
-#EXTINF:-1 tvg-ID="" tvg-name="21-Fox Sports 2" tvg-logo="" group-title="Nederland",21-Fox Sports 2
-http://185.71.66.42:88/live///123.ts
-#EXTINF:-1 tvg-ID="" tvg-name="22-Fox Sports 3" tvg-logo="" group-title="Nederland",22-Fox Sports 3
-http://185.71.66.42:88/live///8956.ts
-#EXTINF:-1 tvg-ID="" tvg-name="23-Fox Sports 4" tvg-logo="" group-title="Nederland",23-Fox Sports 4
-http://185.71.66.42:88/live///1557.ts
-#EXTINF:-1 tvg-ID="" tvg-name="24-Fox Sports 5" tvg-logo="" group-title="Nederland",24-Fox Sports 5
-http://185.71.66.42:88/live///1558.ts
-#EXTINF:-1 tvg-ID="" tvg-name="25-Fox Sports 6" tvg-logo="" group-title="Nederland ",25-Fox Sports 6
-http://185.71.66.42:88/live///2223.ts
-#EXTINF:-1 tvg-ID="" tvg-name="26-Sport1 Voetbal" tvg-logo="" group-title="Nederland ",26-Sport1 Voetbal
-http://185.71.66.42:88/live///56.ts
-#EXTINF:-1 tvg-ID="" tvg-name="27-Sport1 Select HD" tvg-logo="" group-title="Nederland",27-Sport1 Select HD
-http://185.71.66.42:88/live///54.ts
-#EXTINF:-1 tvg-ID="" tvg-name="28-Ziggo Sport Extra1" tvg-logo="" group-title="Nederland ",28-Ziggo Sport Extra1
-http://185.71.66.42:88/live///2226.ts
-#EXTINF:-1 tvg-ID="" tvg-name="29-Ziggo Sport Extra2" tvg-logo="" group-title="Nederland",29-Ziggo Sport Extra2
-http://185.71.66.42:88/live///2227.ts
-#EXTINF:-1 tvg-ID="" tvg-name="30-Ziggo Sport Golf" tvg-logo="" group-title="Nederland ",30-Ziggo Sport Golf
-http://185.71.66.42:88/live///2228.ts
-#EXTINF:-1 tvg-ID="" tvg-name="31-Ziggo Sport Racing" tvg-logo="" group-title="Nederland ",31-Ziggo Sport Racing
-http://185.71.66.42:88/live///2225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="32-Eurosport1" tvg-logo="" group-title="Nederland",32-Eurosport1
-http://185.71.66.42:88/live///2220.ts
-#EXTINF:-1 tvg-ID="" tvg-name="33-Extreme Sports NL" tvg-logo="" group-title="Nederland",33-Extreme Sports NL
-http://185.71.66.42:88/live///2222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="40-Baby TV Ziggo" tvg-logo="" group-title="Nederland",40-Baby TV Ziggo
-http://185.71.66.42:88/live///2195.ts
-#EXTINF:-1 tvg-ID="" tvg-name="41-Boomerang NL" tvg-logo="" group-title="Nederland",41-Boomerang NL
-http://185.71.66.42:88/live///2176.ts
-#EXTINF:-1 tvg-ID="" tvg-name="42-Cartoon Network NL" tvg-logo="" group-title="Nederland",42-Cartoon Network NL
-http://185.71.66.42:88/live///2196.ts
-#EXTINF:-1 tvg-ID="" tvg-name="43-Disney NL" tvg-logo="" group-title="Holland ",43-Disney NL
-http://185.71.66.42:88/live///2177.ts
-#EXTINF:-1 tvg-ID="" tvg-name="44-Veronica/DisneyXD" tvg-logo="" group-title="Nederland",44-Veronica/DisneyXD
-http://185.71.66.42:88/live///2170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="45-NickToons" tvg-logo="" group-title="Nederland",45-NickToons
-http://185.71.66.42:88/live///2200.ts
-#EXTINF:-1 tvg-ID="" tvg-name="46-Disney Junior NL" tvg-logo="" group-title="Nederland",46-Disney Junior NL
-http://185.71.66.42:88/live///2178.ts
-#EXTINF:-1 tvg-ID="" tvg-name="47-Nickelodeon NL" tvg-logo="" group-title="Nederland",47-Nickelodeon NL
-http://185.71.66.42:88/live///2180.ts
-#EXTINF:-1 tvg-ID="" tvg-name="48-Nick Junior NL" tvg-logo="" group-title="Holland ",48-Nick Junior NL
-http://185.71.66.42:88/live///2181.ts
-#EXTINF:-1 tvg-ID="" tvg-name="50-Discovery NL" tvg-logo="" group-title="Nederland",50-Discovery NL
-http://185.71.66.42:88/live///126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="51-C&I NL" tvg-logo="" group-title="Nederland",51-C&I NL
-http://185.71.66.42:88/live///2216.ts
-#EXTINF:-1 tvg-ID="" tvg-name="52-Animal Planet NL" tvg-logo="" group-title="Nederland",52-Animal Planet NL
-http://185.71.66.42:88/live///8391.ts
-#EXTINF:-1 tvg-ID="" tvg-name="53-Investigation Discovery NL" tvg-logo="" group-title="Nederland",53-Investigation Discovery NL
-http://185.71.66.42:88/live///2214.ts
-#EXTINF:-1 tvg-ID="" tvg-name="54-Nat Geo Wild NL" tvg-logo="" group-title="Nederland",54-Nat Geo Wild NL
-http://185.71.66.42:88/live///2213.ts
-#EXTINF:-1 tvg-ID="" tvg-name="55-Nat Geographique NL" tvg-logo="" group-title="Nederland",55-Nat Geographique NL
-http://185.71.66.42:88/live///2211.ts
-#EXTINF:-1 tvg-ID="" tvg-name="56-History NL" tvg-logo="" group-title="Nederland",56-History NL
-http://185.71.66.42:88/live///2209.ts
-#EXTINF:-1 tvg-ID="" tvg-name="57-24Kitchen NL" tvg-logo="" group-title="Nederland",57-24Kitchen NL
-http://185.71.66.42:88/live///2184.ts
-#EXTINF:-1 tvg-ID="" tvg-name="58-TLC NL" tvg-logo="" group-title="Nederland",58-TLC NL
-http://185.71.66.42:88/live///2183.ts
-#EXTINF:-1 tvg-ID="" tvg-name="60-Film1 Action" tvg-logo="" group-title="Nederland",60-Film1 Action
-http://185.71.66.42:88/live///1561.ts
-#EXTINF:-1 tvg-ID="" tvg-name="61-Film1 Premier" tvg-logo="" group-title="Nederland",61-Film1 Premier
-http://185.71.66.42:88/live///188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="62-Film1 Family" tvg-logo="" group-title="Nederland",62-Film1 Family
-http://185.71.66.42:88/live///2218.ts
-#EXTINF:-1 tvg-ID="" tvg-name="63-Film1 Drama" tvg-logo="" group-title="Nederland",63-Film1 Drama
-http://185.71.66.42:88/live///2217.ts
-#EXTINF:-1 tvg-ID="" tvg-name="64-Fox NL" tvg-logo="" group-title="Nederland",64-Fox NL
-http://185.71.66.42:88/live///2172.ts
-#EXTINF:-1 tvg-ID="" tvg-name="65-Comedy Central NL" tvg-logo="" group-title="Nederland",65-Comedy Central NL
-http://185.71.66.42:88/live///2185.ts
-#EXTINF:-1 tvg-ID="" tvg-name="66-Comedy Cen Extra NL" tvg-logo="" group-title="Nederland",66-Comedy Cen Extra NL
-http://185.71.66.42:88/live///2186.ts
-#EXTINF:-1 tvg-ID="" tvg-name="90-Xite" tvg-logo="" group-title="Nederland",90-Xite
-http://185.71.66.42:88/live///1560.ts
-#EXTINF:-1 tvg-ID="" tvg-name="91-MTV NL" tvg-logo="" group-title="Nederland",91-MTV NL
-http://185.71.66.42:88/live///2210.ts
-#EXTINF:-1 tvg-ID="" tvg-name="91-Nick Music" tvg-logo="" group-title="Nederland",91-Nick Music
-http://185.71.66.42:88/live///2182.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BVN" tvg-logo="" group-title="Nederland",BVN
-http://185.71.66.42:88/live///2203.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DenHaag Tv" tvg-logo="" group-title="Nederland",DenHaag Tv
-http://185.71.66.42:88/live///2210.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EDE Tv" tvg-logo="" group-title="Nederland",EDE Tv
-http://185.71.66.42:88/live///2212.ts
-#EXTINF:-1 tvg-ID="" tvg-name="L1 TV" tvg-logo="" group-title="Nederland",L1 TV
-http://185.71.66.42:88/live///2199.ts
-#EXTINF:-1 tvg-ID="" tvg-name="meer TV" tvg-logo="" group-title="Nederland",meer TV
-http://185.71.66.42:88/live///2175.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Omroep Flevoland" tvg-logo="" group-title="Nederland",Omroep Flevoland
-http://185.71.66.42:88/live///2191.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Omroep Fryslan" tvg-logo="" group-title="Nederland",Omroep Fryslan
-http://185.71.66.42:88/live///2193.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Omroep Gelderland" tvg-logo="" group-title="Nederland",Omroep Gelderland
-http://185.71.66.42:88/live///2192.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Omroep P&M" tvg-logo="" group-title="Nederland ",Omroep P&M
-http://185.71.66.42:88/live///2194.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Omroep West" tvg-logo="" group-title="Nederland",Omroep West
-http://185.71.66.42:88/live///2206.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Omroep Zeeland" tvg-logo="" group-title="Nederland ",Omroep Zeeland
-http://185.71.66.42:88/live///2190.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ONS " tvg-logo="" group-title="Nederland ",ONS 
-http://185.71.66.42:88/live///2197.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV Drenth" tvg-logo="" group-title="Nederland",RTV Drenth
-http://185.71.66.42:88/live///2204.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV Noord" tvg-logo="" group-title="Nederland",RTV Noord
-http://185.71.66.42:88/live///2205.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV Oost" tvg-logo="" group-title="Nederland",RTV Oost
-http://185.71.66.42:88/live///2198.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV Utrecht" tvg-logo="" group-title="Nederland",RTV Utrecht
-http://185.71.66.42:88/live///2179.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Wos NL" tvg-logo="" group-title="Nederland",Wos NL
-http://185.71.66.42:88/live///2224.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Belgique" tvg-logo="" group-title="Belgique",★----- Belgique -----★
-http://185.71.66.42:88/live///774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="01-BE:La UNE" tvg-logo="" group-title="Belgique",01-BE:La UNE
-http://185.71.66.42:88/live///774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="02-BE:La Deux" tvg-logo="" group-title="Belgique",02-BE:La Deux
-http://185.71.66.42:88/live///776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="03-BE:La Trois" tvg-logo="" group-title="Belgique",03-BE:La Trois
-http://185.71.66.42:88/live///775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="04-BE:AB3" tvg-logo="" group-title="Belgique",04-BE:AB3
-http://185.71.66.42:88/live///1527.ts
-#EXTINF:-1 tvg-ID="" tvg-name="05-BE:RTL Tvi" tvg-logo="" group-title="Belgique",05-BE:RTL Tvi
-http://185.71.66.42:88/live///772.ts
-#EXTINF:-1 tvg-ID="" tvg-name="06-BE:Plug RTL" tvg-logo="" group-title="Belgique",06-BE:Plug RTL
-http://185.71.66.42:88/live///773.ts
-#EXTINF:-1 tvg-ID="" tvg-name="07-BE:Club RTL" tvg-logo="" group-title="Belgique",07-BE:Club RTL
-http://185.71.66.42:88/live///777.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:BX1" tvg-logo="" group-title="Belgique",BE:BX1
-http://185.71.66.42:88/live///2912.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Canvas" tvg-logo="" group-title="Belgique",BE:Canvas
-http://185.71.66.42:88/live///1518.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:CAZ" tvg-logo="" group-title="Belgique",BE:CAZ
-http://185.71.66.42:88/live///2909.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:een" tvg-logo="" group-title="Belgique",BE:een
-http://185.71.66.42:88/live///1517.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:ketnet" tvg-logo="" group-title="Belgique",BE:ketnet
-http://185.71.66.42:88/live///993.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Q2" tvg-logo="" group-title="Belgique",BE:Q2
-http://185.71.66.42:88/live///2910.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:TVO" tvg-logo="" group-title="Belgique",BE:TVO
-http://185.71.66.42:88/live///2913.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Vier" tvg-logo="" group-title="Belgique",BE:Vier
-http://185.71.66.42:88/live///1521.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Vijf" tvg-logo="" group-title="Belgique",BE:Vijf
-http://185.71.66.42:88/live///1522.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Vitaya" tvg-logo="" group-title="Belgique",BE:Vitaya
-http://185.71.66.42:88/live///994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Vtm" tvg-logo="" group-title="Belgique",BE:Vtm
-http://185.71.66.42:88/live///1519.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:Vtm Kids" tvg-logo="" group-title="Belgique",BE:Vtm Kids
-http://185.71.66.42:88/live///2894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BE:ZES" tvg-logo="" group-title="Belgique",BE:ZES
-http://185.71.66.42:88/live///2895.ts
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/830.png",NPO 1 HD
+http://skdn.redi-vo.com/iptv/ch830?code=240137685662837&key=61464
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/831.png",NPO 2 HD
+http://skdn.redi-vo.com/iptv/ch831?code=240137685662837&key=53640
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/832.png",NPO 3 HD
+http://skdn.redi-vo.com/iptv/ch832?code=240137685662837&key=60804
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/850.png",RTL 4 NL
+http://skdn.redi-vo.com/iptv/ch850?code=240137685662837&key=22025
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/851.png",RTL 5 NL
+http://skdn.redi-vo.com/iptv/ch851?code=240137685662837&key=43789
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/852.png",SBS 6 NL
+http://skdn.redi-vo.com/iptv/ch852?code=240137685662837&key=44869
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/866.png",RTL 7 HD
+http://skdn.redi-vo.com/iptv/ch866?code=240137685662837&key=33253
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/872.png",RTL 8 HD
+http://skdn.redi-vo.com/iptv/ch872?code=240137685662837&key=52485
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/882.png",SBS 9
+http://skdn.redi-vo.com/iptv/ch882?code=240137685662837&key=56973
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/875.png",RTL Z
+http://skdn.redi-vo.com/iptv/ch875?code=240137685662837&key=38846
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1967.png",NPO Nieuws NL
+http://skdn.redi-vo.com/iptv/ch1967?code=240137685662837&key=62565
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1974.png",NPO Cul.
+http://skdn.redi-vo.com/iptv/ch1974?code=240137685662837&key=16796
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1965.png",Viceland NL
+http://skdn.redi-vo.com/iptv/ch1965?code=240137685662837&key=24982
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1975.png",E! NL
+http://skdn.redi-vo.com/iptv/ch1975?code=240137685662837&key=31576
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/857.png",HBO 1 NL
+http://skdn.redi-vo.com/iptv/ch857?code=240137685662837&key=45309
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/858.png",HBO 2 NL
+http://skdn.redi-vo.com/iptv/ch858?code=240137685662837&key=40470
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/859.png",HBO 3 NL
+http://skdn.redi-vo.com/iptv/ch859?code=240137685662837&key=62954
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1966.png",Film DRAMA NL
+http://skdn.redi-vo.com/iptv/ch1966?code=240137685662837&key=40907
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/890.png",Film 1 Sundance NL
+http://skdn.redi-vo.com/iptv/ch890?code=240137685662837&key=18166
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/877.png",Film1 Action
+http://skdn.redi-vo.com/iptv/ch877?code=240137685662837&key=53898
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/856.png",Film 1 premium NL
+http://skdn.redi-vo.com/iptv/ch856?code=240137685662837&key=51419
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/876.png",Film1 Comedy
+http://skdn.redi-vo.com/iptv/ch876?code=240137685662837&key=64151
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/862.png",Fox Channel
+http://skdn.redi-vo.com/iptv/ch862?code=240137685662837&key=25849
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/867.png",Fox sport 1
+http://skdn.redi-vo.com/iptv/ch867?code=240137685662837&key=41809
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/891.png",Fox sport 2
+http://skdn.redi-vo.com/iptv/ch891?code=240137685662837&key=63873
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/880.png",Fox sport 3
+http://skdn.redi-vo.com/iptv/ch880?code=240137685662837&key=12473
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1861.png",Fox Sport 4
+http://skdn.redi-vo.com/iptv/ch1861?code=240137685662837&key=39209
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1862.png",Fox Sport 5
+http://skdn.redi-vo.com/iptv/ch1862?code=240137685662837&key=63294
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1863.png",Fox Sport 6
+http://skdn.redi-vo.com/iptv/ch1863?code=240137685662837&key=38618
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/860.png",Sport1 Select NL
+http://skdn.redi-vo.com/iptv/ch860?code=240137685662837&key=19531
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/878.png",Sport1 Voetba
+http://skdn.redi-vo.com/iptv/ch878?code=240137685662837&key=47497
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1879.png",Sport1 Golf
+http://skdn.redi-vo.com/iptv/ch1879?code=240137685662837&key=49439
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1867.png",Sport1 Extra 1
+http://skdn.redi-vo.com/iptv/ch1867?code=240137685662837&key=19851
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1866.png",Sport1 Extra 2
+http://skdn.redi-vo.com/iptv/ch1866?code=240137685662837&key=25935
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1864.png",Ziggo Sport
+http://skdn.redi-vo.com/iptv/ch1864?code=240137685662837&key=53772
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1969.png",Eurosport 1 NL
+http://skdn.redi-vo.com/iptv/ch1969?code=240137685662837&key=56304
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/889.png",Canvas NL
+http://skdn.redi-vo.com/iptv/ch889?code=240137685662837&key=52896
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/873.png",RTL Lounge
+http://skdn.redi-vo.com/iptv/ch873?code=240137685662837&key=59408
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/888.png",Een HD NL
+http://skdn.redi-vo.com/iptv/ch888?code=240137685662837&key=54920
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/883.png",TLC Netherlands
+http://skdn.redi-vo.com/iptv/ch883?code=240137685662837&key=50176
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/868.png",The Q You
+http://skdn.redi-vo.com/iptv/ch868?code=240137685662837&key=23863
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/881.png",Cartoon Network NL
+http://skdn.redi-vo.com/iptv/ch881?code=240137685662837&key=40989
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/373.png",Nick Toons NL
+http://skdn.redi-vo.com/iptv/ch373?code=240137685662837&key=36488
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/371.png",Nick Jr. NL
+http://skdn.redi-vo.com/iptv/ch371?code=240137685662837&key=49512
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/370.png",Nickelodeon NL
+http://skdn.redi-vo.com/iptv/ch370?code=240137685662837&key=33622
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/372.png",Disney Junior NL
+http://skdn.redi-vo.com/iptv/ch372?code=240137685662837&key=14402
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/865.png",Disney Channel NL
+http://skdn.redi-vo.com/iptv/ch865?code=240137685662837&key=32304
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1973.png",Disney XD NL
+http://skdn.redi-vo.com/iptv/ch1973?code=240137685662837&key=19055
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1964.png",RTL Tele kids
+http://skdn.redi-vo.com/iptv/ch1964?code=240137685662837&key=54488
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1970.png",Baby Tv NL
+http://skdn.redi-vo.com/iptv/ch1970?code=240137685662837&key=19016
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/863.png",Boomerang
+http://skdn.redi-vo.com/iptv/ch863?code=240137685662837&key=38049
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1869.png",Ketop 12 NL
+http://skdn.redi-vo.com/iptv/ch1869?code=240137685662837&key=19609
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1870.png",Veronica
+http://skdn.redi-vo.com/iptv/ch1870?code=240137685662837&key=10277
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1872.png",E. NL
+http://skdn.redi-vo.com/iptv/ch1872?code=240137685662837&key=23376
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1871.png",Discovery Showcase N
+http://skdn.redi-vo.com/iptv/ch1871?code=240137685662837&key=12600
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1971.png",Comedy Extra NL
+http://skdn.redi-vo.com/iptv/ch1971?code=240137685662837&key=10579
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1972.png",Comedy Family NL
+http://skdn.redi-vo.com/iptv/ch1972?code=240137685662837&key=38855
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1878.png",Comedy central NL
+http://skdn.redi-vo.com/iptv/ch1878?code=240137685662837&key=29677
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1873.png",Animal Planet NL
+http://skdn.redi-vo.com/iptv/ch1873?code=240137685662837&key=25797
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/870.png",Discovery Channel
+http://skdn.redi-vo.com/iptv/ch870?code=240137685662837&key=54180
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/864.png",Discovery Investigat
+http://skdn.redi-vo.com/iptv/ch864?code=240137685662837&key=64681
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1875.png",Discovery ID NL
+http://skdn.redi-vo.com/iptv/ch1875?code=240137685662837&key=31561
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1968.png",Extreme sports NL
+http://skdn.redi-vo.com/iptv/ch1968?code=240137685662837&key=60667
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/884.png",NatGeo NL
+http://skdn.redi-vo.com/iptv/ch884?code=240137685662837&key=28548
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/879.png",Nat. Geo Wild NL
+http://skdn.redi-vo.com/iptv/ch879?code=240137685662837&key=38039
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1880.png",History NL
+http://skdn.redi-vo.com/iptv/ch1880?code=240137685662837&key=59364
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/885.png",MTV NL
+http://skdn.redi-vo.com/iptv/ch885?code=240137685662837&key=11383
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/822.png",La Une
+http://skdn.redi-vo.com/iptv/ch822?code=240137685662837&key=12719
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/819.png",La Deux
+http://skdn.redi-vo.com/iptv/ch819?code=240137685662837&key=45545
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/821.png",La Trois
+http://skdn.redi-vo.com/iptv/ch821?code=240137685662837&key=23931
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/837.png",RTL TVI
+http://skdn.redi-vo.com/iptv/ch837?code=240137685662837&key=23688
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/848.png",Club RTL
+http://skdn.redi-vo.com/iptv/ch848?code=240137685662837&key=39351
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/836.png",Plug RTL
+http://skdn.redi-vo.com/iptv/ch836?code=240137685662837&key=17366
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1890.png",VTM
+http://skdn.redi-vo.com/iptv/ch1890?code=240137685662837&key=32085
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1889.png",VTM Kzoom
+http://skdn.redi-vo.com/iptv/ch1889?code=240137685662837&key=27208
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1888.png",Vitaya
+http://skdn.redi-vo.com/iptv/ch1888?code=240137685662837&key=24567
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1887.png",Vier
+http://skdn.redi-vo.com/iptv/ch1887?code=240137685662837&key=24914
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1886.png",Acht
+http://skdn.redi-vo.com/iptv/ch1886?code=240137685662837&key=23287
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1885.png",2 Be
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9006.png",TF1 FULL HD
 http://skdn.redi-vo.com/iptv/ch9006?code=240137685662837&key=13071
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/9004.png",M6 FULL HD
@@ -1671,50 +1636,49 @@ http://skdn.redi-vo.com/iptv/ch4719?code=240137685662837&key=13853
 #EXTINF:0 group-title="Algeria"tvg-logo="http://logo.ddnb.tn/logochanel/4724.png",Ennahar Algerie +4
 http://skdn.redi-vo.com/iptv/ch4724?code=240137685662837&key=31161
 #EXTINF:0 group-title="Algeria"tvg-logo="http://logo.ddnb.tn/logochanel/4137.png",Canal 3 +4
-#EXTINF:-1 tvg-ID="" tvg-name="Maroc" tvg-logo="" group-title="Maroc",•●★----- Maroc -----★●•
-http://185.71.66.42:88/live///1069.ts
-#EXTINF:-1 tvg-ID="" tvg-name="2M Maroc" tvg-logo="" group-title="Maroc",2M Maroc
-http://185.71.66.42:88/live///1069.ts
-#EXTINF:-1 tvg-ID="" tvg-name="2M TNT" tvg-logo="" group-title="Maroc",2M TNT
-http://185.71.66.42:88/live///7032.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Aflam TV" tvg-logo="" group-title="Maroc",Aflam TV
-http://185.71.66.42:88/live///4167.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Al Aoula" tvg-logo="" group-title="Maroc",Al Aoula
-http://185.71.66.42:88/live///453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Al Maghribia" tvg-logo="" group-title="Maroc",Al Maghribia
-http://185.71.66.42:88/live///452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arryadia" tvg-logo="" group-title="Maroc",Arryadia
-http://185.71.66.42:88/live///457.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Arryadia Live" tvg-logo="" group-title="Maroc",Arryadia Live
-http://185.71.66.42:88/live///867.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Assadissa" tvg-logo="" group-title="Maroc",Assadissa
-http://185.71.66.42:88/live///456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Athaqafia" tvg-logo="" group-title="Maroc",Athaqafia
-http://185.71.66.42:88/live///458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Atlas" tvg-logo="" group-title="Maroc",Canal Atlas
-http://185.71.66.42:88/live///3384.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Chada TV" tvg-logo="" group-title="Maroc",Chada TV
-http://185.71.66.42:88/live///996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Kabour2013" tvg-logo="" group-title="Maroc",Kabour2013
-http://185.71.66.42:88/live///3687.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Kabour2014" tvg-logo="" group-title="Maroc",Kabour2014
-http://185.71.66.42:88/live///3686.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Kabour2017" tvg-logo="" group-title="Maroc",Kabour2017
-http://185.71.66.42:88/live///3681.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Laayoune TV" tvg-logo="" group-title="Maroc",Laayoune TV
-http://185.71.66.42:88/live///719.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M24" tvg-logo="" group-title="Maroc",M24
-http://185.71.66.42:88/live///9900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Maroc" tvg-logo="" group-title="Maroc",Maroc
-http://185.71.66.42:88/live///3707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Masrah_Maghreb_E01" tvg-logo="" group-title="Maroc",Masrah_Maghreb_E01
-http://185.71.66.42:88/series///10953.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Masrah_Maghreb_E02" tvg-logo="" group-title="Maroc",Masrah_Maghreb_E02
-http://185.71.66.42:88/series///11032.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="MBC5" tvg-logo="" group-title="Maroc",MBC5
-http://185.71.66.42:88/live///222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Medi 1" tvg-logo="" group-title="Maroc",Medi 1
-http://185.71.66.42:88/live///451.ts
+http://skdn.redi-vo.com/iptv/ch4137?code=240137685662837&key=46876
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/729.png",Oula Maroc HD
+http://skdn.redi-vo.com/iptv/ch729?code=240137685662837&key=32667
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/611.png",Al Oula Laayoun
+http://skdn.redi-vo.com/iptv/ch611?code=240137685662837&key=64864
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/350.png",Oula Maroc HD TNT
+http://skdn.redi-vo.com/iptv/ch350?code=240137685662837&key=15401
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/121.png",2M Maroc
+http://skdn.redi-vo.com/iptv/ch121?code=240137685662837&key=43556
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/166.png",Medi1 Maghreb HD
+http://skdn.redi-vo.com/iptv/ch166?code=240137685662837&key=23556
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/1460.png",Medi1 Afrique HD
+http://skdn.redi-vo.com/iptv/ch1460?code=240137685662837&key=13603
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/1461.png",Medi1 Arab HD
+http://skdn.redi-vo.com/iptv/ch1461?code=240137685662837&key=43916
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/761.png",Arrabiaa
+http://skdn.redi-vo.com/iptv/ch761?code=240137685662837&key=14047
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/733.png",Arriadhia
+http://skdn.redi-vo.com/iptv/ch733?code=240137685662837&key=41582
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/351.png",Arriadhia TNT
+http://skdn.redi-vo.com/iptv/ch351?code=240137685662837&key=60181
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/377.png",Arriadhia Live HD
+http://skdn.redi-vo.com/iptv/ch377?code=240137685662837&key=33962
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/147.png",Assadissa
+http://skdn.redi-vo.com/iptv/ch147?code=240137685662837&key=64640
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/352.png",Assabiaa TNT
+http://skdn.redi-vo.com/iptv/ch352?code=240137685662837&key=59845
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/56.png",Al Maghribia
+http://skdn.redi-vo.com/iptv/ch56?code=240137685662837&key=24911
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/487.png",Tamazight Maroc
+http://skdn.redi-vo.com/iptv/ch487?code=240137685662837&key=28352
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/1142.png",Tele Maroc
+http://skdn.redi-vo.com/iptv/ch1142?code=240137685662837&key=15283
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/666.png",Chada TV
+http://skdn.redi-vo.com/iptv/ch666?code=240137685662837&key=44755
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/615.png",Canal Atlas
+http://skdn.redi-vo.com/iptv/ch615?code=240137685662837&key=50842
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/4121.png",2M Maroc +4
+http://skdn.redi-vo.com/iptv/ch4121?code=240137685662837&key=10428
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/4166.png",Medi1 +4
+http://skdn.redi-vo.com/iptv/ch4166?code=240137685662837&key=42911
+#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/4729.png",Oula Maroc HD +4
+http://skdn.redi-vo.com/iptv/ch4729?code=240137685662837&key=34210
 #EXTINF:0 group-title="Lebanon"tvg-logo="http://logo.ddnb.tn/logochanel/1530.png",MEIE TV
 http://skdn.redi-vo.com/iptv/ch1530?code=240137685662837&key=18476
 #EXTINF:0 group-title="Lebanon"tvg-logo="http://logo.ddnb.tn/logochanel/186.png",O-Tv
