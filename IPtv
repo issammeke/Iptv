@@ -47,7 +47,6 @@ http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59561?chec
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59562?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT FORMULA 1 HD
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59564?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 HD
 http://srv.maxptv.net:8080/BMW498/321321/529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 SD
@@ -80,7 +79,6 @@ http://doubleagechanmain.com:80/123456/123456/9184?checkedby:iptvcat.com
 http://doubleagechanmain.com:80/123456/123456/9185?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
 http://doubleagechanmain.com:80/123456/123456/9187?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="CL" tvg-logo="https://i.imgur.com/lsg8u59.png" group-title="Sport",Real Madrid TV
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",NewTV Super sports HD,NewTV未来电视 超级体育
@@ -103,6 +101,12 @@ http://plus-tv.us:8080/live/1899/1899/6595.ts?checkedby:iptvcat.com
 http://plus-tv.us:8080/live/1899/1899/6595.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/eDYaphB.png" tvg-country="BE" tvg-url="" group-title="Dutch",Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnia and Herzegovina",(ONLINE) 777 Tehnika TV,777 Tehnika TV,BA | 777 Tehnika TV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Bosnia and Herzegovina",B1 TV,BA | B1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Bosnia and Herzegovina",Hema Televizija
+http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
 #EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1523.png",Sky Sportnews DE
 http://skdn.redi-vo.com/iptv/ch1523?code=240137685662837&key=55803
 #EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/405.png",Sky Sport 1 HD DE
@@ -1518,7 +1522,6 @@ http://skdn.redi-vo.com/iptv/ch900?code=240137685662837&key=51518
 http://skdn.redi-vo.com/iptv/ch901?code=240137685662837&key=50961
 #EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/902.png",OSN ON DEMAND 3
 http://skdn.redi-vo.com/iptv/ch902?code=240137685662837&key=51456
-#EXTM3U
 #EXTINF:0 group-title="Tunisia"tvg-logo="http://logo.ddnb.tn/logochanel/1.png",National 1
 http://skdn.redi-vo.com/iptv/ch1?code=240137685662837&key=64428
 #EXTINF:0 group-title="Tunisia"tvg-logo="http://logo.ddnb.tn/logochanel/10.png",National 1 HD
@@ -3021,7 +3024,6 @@ http://skdn.redi-vo.com/iptv/ch307?code=240137685662837&key=57752
 http://skdn.redi-vo.com/iptv/ch308?code=240137685662837&key=47213
 #EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/309.png",A LA Carte 10
 http://skdn.redi-vo.com/iptv/ch309?code=240137685662837&key=58233
-
 #EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1287.png",0 HD SP
 http://skdn.redi-vo.com/iptv/ch1287?code=240137685662837&key=30476
 #EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1288.png",Vamos HD SP
