@@ -1638,6 +1638,8 @@ http://skdn.redi-vo.com/iptv/ch4719?code=240137685662837&key=13853
 http://skdn.redi-vo.com/iptv/ch4724?code=240137685662837&key=31161
 #EXTINF:0 group-title="Algeria"tvg-logo="http://logo.ddnb.tn/logochanel/4137.png",Canal 3 +4
 http://skdn.redi-vo.com/iptv/ch4137?code=240137685662837&key=46876
+#EXTINF:-1 tvg-ID="" tvg-name="MBC5" tvg-logo="" group-title="Morocco",MBC5
+http://185.71.66.42:88/live///222.ts
 #EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/729.png",Oula Maroc HD
 http://skdn.redi-vo.com/iptv/ch729?code=240137685662837&key=32667
 #EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/611.png",Al Oula Laayoun
