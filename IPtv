@@ -3429,367 +3429,367 @@ http://skdn.redi-vo.com/iptv/ch1886?code=240137685662837&key=23287
 http://skdn.redi-vo.com/iptv/ch1885?code=240137685662837&key=46007
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/m5cc4g5.png" group-title="Undefined",22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/lckbSZB.png" group-title="Undefined",Ahl-Alquran TV
-https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/xhlZOq5.png" group-title="Undefined",Al Arabiya,SA | Al Arabiya
+
+
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/xhlZOq5.png" group-title="Saudia",Al Arabiya,SA | Al Arabiya
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Undefined",Al Khalij
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="saudia",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="Undefined",Al Khalij
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" group-title="saudia",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="Undefined",Al Quran Al Kareem (Mecca)
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="saudia",Al Quran Al Kareem (Mecca)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca),Quran
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="saudia",Al Quran Al Kareem (Mecca),Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Undefined",Al Quran Al Kareem (Mecca)
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="saudia",Al Quran Al Kareem (Mecca)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Undefined",Al Sunnah (Medina)
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="saudia",Al Sunnah (Medina)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="Undefined",Al Sunnah (Medina)
+#EXTINF:0 tvg-country="SA" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="saudia",Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MY;SA" tvg-logo="" group-title="Undefined",Al Wesal TV,WESAL TV (1280×720)
+#EXTINF:0 tvg-country="MY;SA" tvg-logo="" group-title="saudia",Al Wesal TV,WESAL TV (1280×720)
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/7aD1yan.jpg" group-title="Undefined",Beity
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/7aD1yan.jpg" group-title="saudia",Beity
 http://82.212.74.99:8000/live/8164.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://jascotvstreaming.com/uploads/topics/15817550307058.png" group-title="Undefined",EN TV
+#EXTINF:0 tvg-country="SA" tvg-logo="http://jascotvstreaming.com/uploads/topics/15817550307058.png" group-title="saudia",EN TV
 http://82.212.74.100:8000/live/8130.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="Undefined",Jasco Events TV
+#EXTINF:0 tvg-country="SA" tvg-logo="" group-title="saudia",Jasco Events TV
 http://82.212.74.100:8000/live/hls/8131.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/q2qHUKF.png" group-title="Undefined",Kaif TV,قناة كيف ؟؟
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/q2qHUKF.png" group-title="saudia",Kaif TV,قناة كيف ؟؟
 http://82.212.74.2:8000/live/hls/7311.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Undefined",Makkah TV
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="saudia",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="Undefined",Rotana Kids
+#EXTINF:0 tvg-country="SA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="saudia",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="Undefined",SA | Saudi TV 1,Saudi TV 1
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="saudia",SA | Saudi TV 1,Saudi TV 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="Undefined",Saudi TV 1
+#EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="saudia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Undefined",(ONLINE) 777 Tehnika TV,777 Tehnika TV,BA | 777 Tehnika TV
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnia and Herzegovina",(ONLINE) 777 Tehnika TV,777 Tehnika TV,BA | 777 Tehnika TV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Undefined",B1 TV,BA | B1 TV
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Bosnia and Herzegovina",B1 TV,BA | B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Undefined",Hema Televizija
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Bosnia and Herzegovina",Hema Televizija
 http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Croatia",HRT 1 [NO KODI]
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Croatia",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Croatia",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Croatia",HRT 1 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia",HRT 2 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226140/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia",HRT 2 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226140/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia",HRT 2 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226140/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia",HRT 2 [NO KODI]
 http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Croatia",HRT 2 [NO KODI]
 http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Croatia",HRT 3 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Croatia",HRT 3 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Croatia",HRT 3 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Croatia",HRT 3 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226280/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Croatia",HRT 4 [NO KODI]
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Croatia",HRT 4 [NO KODI]
 http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Croatia",HRT 4 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Croatia",HRT 4 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Croatia",HRT 4 [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226281/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226027/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226027/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Croatia",MAXtv Promo Kanal [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226407/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="News",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="News",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226407/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.89/PLTV/88888888/224/3221226407/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Croatia",NewsBar [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Croatia",RTL [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Croatia",RTL [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Croatia",RTL [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Croatia",RTL [NO KODI]
 http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7q3g8AS.png" group-title="Undefined",Radio Televizija Banovina
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7q3g8AS.png" group-title="Croatia",Radio Televizija Banovina
 rtmp://video.radio-banovina.hr/live/myStream?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="Undefined",Z1
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="Croatia",Z1
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Kosovo",RTK 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Kosovo",RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Kosovo",RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Kosovo",RTK 3
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Kosovo",RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/qYPQaYf.png" group-title="Undefined",Rrokum,Rrokum TV HD
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/qYPQaYf.png" group-title="Kosovo",Rrokum,Rrokum TV HD
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/gfdZq6D.jpg" group-title="Undefined",TV Dielli
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/gfdZq6D.jpg" group-title="Kosovo",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MK" tvg-logo="" group-title="Music",LiveTV HD
 rtmp://live.livetvhd.cf/live/livetvhd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="Undefined",MRT 1
+#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="North Macedonia",MRT 1
 http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MK" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="Undefined",Macedonia : Sky Folk TV HD,Sky Folk TV
+#EXTINF:0 tvg-country="MK" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="North Macedonia",Macedonia : Sky Folk TV HD,Sky Folk TV
 http://skyfolk.mk/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="Undefined",Telma (MK),Телма
+#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="North Macedonia",Telma (MK),Телма
 http://190.2.154.72:8081/tvstanici/4/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="Undefined",Алфа ТВ
+#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="North Macedonia",Алфа ТВ
 http://190.2.154.72:8081/tvstanici/33/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="Undefined",TV KOPER
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="Slovenia",TV KOPER
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="Undefined",TV MARIBOR
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="Slovenia",TV MARIBOR
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="Undefined",TV SLOVENIJA 1
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="Slovenia",TV SLOVENIJA 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="Undefined",TV SLOVENIJA 2
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="Slovenia",TV SLOVENIJA 2
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="Undefined",TV SLOVENIJA 3
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="Slovenia",TV SLOVENIJA 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",1NTVSPOR HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",1NTVSPOR HD
 http://46.105.233.106:8686/hls/ntvspor/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",24 TV
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Undefined",24 TV [FHD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Turkey",24 TV [FHD]
 https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Undefined",24 TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Turkey",24 TV [HD]
 https://canli.ensonhaber.com/tr/24tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Undefined",24 TV [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Turkey",24 TV [SD]
 http://94.46.195.170:9000/kanal24/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",2beINSPORTS HD 1
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",2beINSPORTS HD 1
 http://46.105.233.106:8686/ntvspor.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",360 TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?__mn_sid=15075510848414370774&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",360 TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",360 TV HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASlkX.png" group-title="Undefined",360 [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASlkX.png" group-title="Turkey",360 [HD]
 https://canli.ensonhaber.com/tr/360tv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASlkX.png" group-title="Undefined",360 [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASlkX.png" group-title="Turkey",360 [HD]
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASlkX.png" group-title="Undefined",360 [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASlkX.png" group-title="Turkey",360 [SD]
 http://94.46.195.170:9000/skyturk/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",81 Oray TV Düzce
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",81 Oray TV Düzce
 http://live.arkumedia.com:1935/81olaytv/81olaytv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASw2S.png" group-title="Undefined",A HABER [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASw2S.png" group-title="Turkey",A HABER [SD]
 http://85.132.53.55/turk/ahaber_stream_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASw2S.png" group-title="Undefined",A HABER [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASw2S.png" group-title="Turkey",A HABER [SD]
 http://94.46.195.170:9000/ahaber/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASpGR.png" group-title="News",A NEWS [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASpGR.png" group-title="Turkey",A NEWS [SD]
 http://94.46.195.170:9000/anews/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/f0tvXAQ.png" group-title="Undefined",A Para,TR | A Para
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/f0tvXAQ.png" group-title="Turkey",A Para,TR | A Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="Undefined",A Para
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="Turkey",A Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A SPOR HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A SPOR HD
 http://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUn6l.png" group-title="Undefined",A SPOR [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUn6l.png" group-title="Turkey",A SPOR [SD]
 http://85.132.53.55/turk/aspor_stream_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUn6l.png" group-title="Undefined",A SPOR [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUn6l.png" group-title="Turkey",A SPOR [SD]
 http://94.46.195.170:9000/aspor/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A Spor
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" group-title="Sport",A Spor
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" group-title="Turkey",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/Au33HHc.png" group-title="Undefined",A2,TR | A2
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/Au33HHc.png" group-title="Turkey",A2,TR | A2
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A2 HD
 https://streams.livetv.az/turk/a2_stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",A2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A2 HD
 http://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASGhG.png" group-title="Undefined",A2 [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASGhG.png" group-title="Turkey",A2 [SD]
 http://85.132.53.55/turk/a2_stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASGhG.png" group-title="Undefined",A2 [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASGhG.png" group-title="Turkey",A2 [SD]
 http://94.46.195.170:9000/a2tv/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/gFWSgVC/YIv7xEi.png" group-title="Undefined",A2TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/gFWSgVC/YIv7xEi.png" group-title="Turkey",A2TV
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",AA Live
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",AA Live
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",AKIT TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ALANYA ATV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ALANYA ATV
 http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/iptvdelisi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ALTAS TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ALTAS TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AZ;TR" tvg-logo="https://i.imgur.com/AoKSJYX.jpg" group-title="Undefined",ATV,ATV Turk,TR | ATV
+#EXTINF:0 tvg-country="AZ;TR" tvg-logo="https://i.imgur.com/AoKSJYX.jpg" group-title="Turkey",ATV,ATV Turk,TR | ATV
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV Avrupa
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ATV Avrupa
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/68226?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV FHD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ATV FHD
 http://streams2.livetv.az/turk/atv_turk_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ATV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ATV HD
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUAue.png" group-title="Undefined",ATV [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUAue.png" group-title="Turkey",ATV [SD]
 http://85.132.53.55/turk/atv_turk_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUAue.png" group-title="Undefined",ATV [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAUAue.png" group-title="Turkey",ATV [SD]
 http://94.46.195.170:9000/atv/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",AV TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",AV TV HD
 https://59cba4d34b678.streamlock.net/canlitv/avtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAU0FV.png" group-title="Undefined",AV TV [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAU0FV.png" group-title="Turkey",AV TV [SD]
 http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAU0FV.png" group-title="Undefined",AV TV [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAU0FV.png" group-title="Turkey",AV TV [SD]
 http://94.46.195.170:9000/av-tv/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="Undefined",Afyon Turk TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="Turkey",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Ahi TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Ahi TV
 http://yayin3.canlitv.com:1935/canlitv/ahitv/iptvdelisi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="Undefined",Akit TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="Turkey",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="Undefined",Akit TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="Turkey",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR;TR" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" group-title="Undefined",Al Zahra TV,Al-Zahra TV Turkic
+#EXTINF:0 tvg-country="IR;TR" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" group-title="Turkey",Al Zahra TV,Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="Undefined",Al-Zahra TV Turkic
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="Turkey",Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Alanya Posta TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Alanya Posta TV
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Almanya*da Türk TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Almanya*da Türk TV
 http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" group-title="Undefined",Altaş TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" group-title="Turkey",Altaş TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Anadolu RTV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Anadolu RTV
 https://broadcasttr.com:446/anadolurtv/bant1/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Atürk TV,Ege Atürk TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Atürk TV,Ege Atürk TV
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgksj.png" group-title="Sport",BEIN SPORTS HABER [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgksj.png" group-title="Turkey",BEIN SPORTS HABER [SD]
 http://94.46.195.170:9000/bein-sports-haber/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAg6e1.png" group-title="Undefined",BENGÜTÜRK TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAg6e1.png" group-title="Turkey",BENGÜTÜRK TV [HD]
 https://canli.ensonhaber.com/tr/benguturk/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEYAZ TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgtqv.png" group-title="Undefined",BEYAZ TV [FHD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgtqv.png" group-title="Turkey",BEYAZ TV [FHD]
 https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgtqv.png" group-title="Undefined",BEYAZ TV [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgtqv.png" group-title="Turkey",BEYAZ TV [HD]
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgtqv.png" group-title="Undefined",BEYAZ TV [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JAgtqv.png" group-title="Turkey",BEYAZ TV [SD]
 http://94.46.195.170:9000/beyaztv/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArHmX.png" group-title="Undefined",BLOOMBERG HT [FHD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArHmX.png" group-title="Turkey",BLOOMBERG HT [FHD]
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArHmX.png" group-title="Undefined",BLOOMBERG HT [HD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArHmX.png" group-title="Turkey",BLOOMBERG HT [HD]
 https://canli.ensonhaber.com/tr/bloomberght/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArHmX.png" group-title="Undefined",BLOOMBERG HT [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArHmX.png" group-title="Turkey",BLOOMBERG HT [SD]
 http://94.46.195.170:9000/bloomberght/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" group-title="Undefined",BRT 2
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" group-title="Turkey",BRT 2
 http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BURSA TV rtmp
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",BURSA TV rtmp
 rtmp://win1.yayin.com.tr/bursatv/bursatv?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Belediye TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Belediye TV
 https://5be5d840359c6.streamlock.net/belediyelertv/belediyelertv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Berk TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Berk TV
 https://59cba4d34b678.streamlock.net/canlitv/berk-tv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Beyaz TV HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Beyaz TV HD
 http://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Undefined",Beşiktaş Web TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Turkey",Beşiktaş Web TV
 http://s01.vpis.io/besiktas/besiktas.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Undefined",Beşiktaş Web TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Turkey",Beşiktaş Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Biat TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Biat TV
 https://5be5d840359c6.streamlock.net/biattv/biattv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Bloomberg HT
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Bloomberg HT
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Bodrum Belediyesi Web TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Bodrum Belediyesi Web TV
 https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Boztepe TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Boztepe TV
 http://stream.taksimbilisim.com:1935/btv/bant1/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Brüksel Türk TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Brüksel Türk TV
 http://live.arkumedia.com:1935/brukselturktv/brukselturktv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Bursa AS TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Bursa AS TV
 https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CAN TV 24
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",CAN TV 24
 http://yayin3.canlitv.com:1935/canlitv/cantv/iptvdelisi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArRBj.png" group-title="Undefined",CARTOON NETWORK [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArRBj.png" group-title="Turkey",CARTOON NETWORK [SD]
 http://94.46.195.170:9000/cartoonnetwork/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CAY TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",CAY TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RU;TR" tvg-logo="" group-title="Sport",CBC SPORT,CBS SPORT HD
+#EXTINF:0 tvg-country="RU;TR" tvg-logo="" group-title="Turkey",CBC SPORT,CBS SPORT HD
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArw2p.png" group-title="Undefined",CNN TÜRK [FHD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArw2p.png" group-title="Turkey",CNN TÜRK [FHD]
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArw2p.png" group-title="Undefined",CNN TÜRK [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JArw2p.png" group-title="Turkey",CNN TÜRK [SD]
 http://94.46.195.170:9000/cnnturk/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CNN Türk
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",CNN Türk
 https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_hd.smil/chunklist_b2064000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" group-title="Undefined",CRI Turk Belgesel
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" group-title="Turkey",CRI Turk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" group-title="Undefined",CRI Turk Belgesel
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" group-title="Turkey",CRI Turk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",CRI Türk Belgesel
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="Undefined",Can TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="Turkey",Can TV
 http://canbroadcast.com:7000/canlican/tv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Cartoon Network Türkiye
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Cartoon Network Türkiye
 http://streams2.livetv.az/turk/cartoon/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="Undefined",Cay TV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="Turkey",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DIGIMAX 1 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DIGIMAX 1 HD
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/189271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DIGIMAX 2 HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DIGIMAX 2 HD
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/189272?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Undefined",DISNEY CHANNEL [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4d8B.png" group-title="Turkey",DISNEY CHANNEL [SD]
 http://94.46.195.170:9000/disneychannel/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DIYALOG TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DIYALOG TV
 http://yayin3.canlitv.com:1935/live/diyalogtv/iptvdelisi.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DIYAR TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DIYAR TV
 rtmp://yayin10.canliyayin.org/P981680400/diyartv?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DIZI SMART PREMIUM HD
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DIZI SMART PREMIUM HD
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/68276?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4cPf.png" group-title="Undefined",DMAX [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4cPf.png" group-title="Turkey",DMAX [SD]
 http://85.132.53.55/turk/dmax_stream_sd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4cPf.png" group-title="Undefined",DMAX [SD]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JA4cPf.png" group-title="Turkey",DMAX [SD]
 http://94.46.195.170:9000/ntvspor/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DOST TV
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DOST TV
 http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DREAM TURK
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DREAM TURK
 https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8?checkedby:iptvcat.com
 
 
