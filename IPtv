@@ -6746,7 +6746,7 @@ http://skdn.redi-vo.com/iptv/ch821?code=240137685662837&key=23931
 http://skdn.redi-vo.com/iptv/ch837?code=240137685662837&key=23688
 #EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/848.png",Club RTL
 http://skdn.redi-vo.com/iptv/ch848?code=240137685662837&key=39351
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/836.png",Plug RTL
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/836.png",Plug
 http://skdn.redi-vo.com/iptv/ch836?code=240137685662837&key=17366
 #EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1890.png",VTM
 http://skdn.redi-vo.com/iptv/ch1890?code=240137685662837&key=32085
@@ -6758,10 +6758,10 @@ http://skdn.redi-vo.com/iptv/ch1888?code=240137685662837&key=24567
 http://skdn.redi-vo.com/iptv/ch1887?code=240137685662837&key=24914
 #EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1886.png",Acht
 http://skdn.redi-vo.com/iptv/ch1886?code=240137685662837&key=23287
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1885.png",2 Be
 #EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnia and Herzegovina",(ONLINE) 777 Tehnika TV,777 Tehnika TV,BA | 777 Tehnika TV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Bosnia and Herzegovina",B1 TV,BA | B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Bosnia and Herzegovina",Hema Televizija
 http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
+#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1885.png",2 Be
