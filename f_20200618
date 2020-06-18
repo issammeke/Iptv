@@ -757,7 +757,7 @@ http://skdn.redi-vo.com/iptv/ch4724?code=240137685662837&key=31161
 http://skdn.redi-vo.com/iptv/ch4137?code=240137685662837&key=46876
 #EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/729.png",Oula Maroc HD
 http://skdn.redi-vo.com/iptv/ch729?code=240137685662837&key=32667
-#EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/729.png",MBC 5
+#EXTINF:0 group-title="Morocco"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Morocco"tvg-logo="http://logo.ddnb.tn/logochanel/611.png",Al Oula Laayoun
 http://skdn.redi-vo.com/iptv/ch611?code=240137685662837&key=64864
@@ -6760,9 +6760,5 @@ http://skdn.redi-vo.com/iptv/ch1888?code=240137685662837&key=24567
 http://skdn.redi-vo.com/iptv/ch1887?code=240137685662837&key=24914
 #EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1886.png",Acht
 http://skdn.redi-vo.com/iptv/ch1886?code=240137685662837&key=23287
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnia and Herzegovina",(ONLINE) 777 Tehnika TV,777 Tehnika TV,BA | 777 Tehnika TV
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Bosnia and Herzegovina",B1 TV,BA | B1 TV
-http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Bosnia and Herzegovina",Hema Televizija
+#EXTINF:0 group-title="Bosnia and Herzegovina" tvg-logo="https://i.imgur.com/AD3Ak7T.png" ,Hema Televizija
 http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
