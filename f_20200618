@@ -3967,7 +3967,7 @@ http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptv
 http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
 #EXTINF:0  group-title="Bosnia and Herzegovina" tvg-logo="https://i.imgur.com/AD3Ak7T.png",Hema Televizija
 http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
-#EXTINF:0  group-title="Sport" tvg-logo="",DIRECTV SPORTS 2
+#EXTINF:0  group-title="Sport" tvg-logo="https://i.imgur.com/AD3Ak7T.png",DIRECTV SPORTS 2
 http://plus-tv.us:8080/live/1899/1899/3671.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/1Tfidgz.png" ,Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8?checkedby:iptvcat.com
@@ -3987,7 +3987,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/48134?checkedby:iptvcat.com
 #EXTINF:0 group-title="Sport"tvg-logo="" ,ESPN HD
 http://doubleagechanmain.com:80/123456/123456/13433?checkedby:iptvcat.com
-#EXTINF:0 group-title="Sport"tvg-logo="" ,Espn  2 HD
+#EXTINF:0 group-title="Sport"tvg-logo="",Espn  2 HD
 http://srv.maxptv.net:8080/BMW498/321321/171?checkedby:iptvcat.com
 #EXTINF:0 group-title="Sport"tvg-logo="",Espn  2 SD
 http://srv.maxptv.net:8080/BMW498/321321/170?checkedby:iptvcat.com
