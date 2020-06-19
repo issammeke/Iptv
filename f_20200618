@@ -3341,3 +3341,623 @@ http://skdn.redi-vo.com/iptv/ch2603?code=240137685662837&key=30318
 http://skdn.redi-vo.com/iptv/ch2602?code=240137685662837&key=43649
 #EXTINF:0 group-title="Ukraina"tvg-logo="http://logo.ddnb.tn/logochanel/2601.png",Enter Film
 http://skdn.redi-vo.com/iptv/ch2601?code=240137685662837&key=11446
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1523.png",Sky Sportnews DE
+http://skdn.redi-vo.com/iptv/ch1523?code=240137685662837&key=55803
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/405.png",Sky Sport 1 HD DE
+http://skdn.redi-vo.com/iptv/ch405?code=240137685662837&key=46517
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/406.png",Sky Sport 2 HD DE
+http://skdn.redi-vo.com/iptv/ch406?code=240137685662837&key=11361
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1657.png",Dazn 1 DE
+http://skdn.redi-vo.com/iptv/ch1657?code=240137685662837&key=40139
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1658.png",Dazn 2 DE
+http://skdn.redi-vo.com/iptv/ch1658?code=240137685662837&key=24514
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1520.png",Sport1 DE
+http://skdn.redi-vo.com/iptv/ch1520?code=240137685662837&key=25294
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/420.png",EuroSport1 DE
+http://skdn.redi-vo.com/iptv/ch420?code=240137685662837&key=47073
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1519.png",Eurosport2 DE
+http://skdn.redi-vo.com/iptv/ch1519?code=240137685662837&key=41938
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/402.png",Sky Atlantic HD DE
+http://skdn.redi-vo.com/iptv/ch402?code=240137685662837&key=62517
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/401.png",Sky Cinema HD DE
+http://skdn.redi-vo.com/iptv/ch401?code=240137685662837&key=12609
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/411.png",Sky Action DE
+http://skdn.redi-vo.com/iptv/ch411?code=240137685662837&key=12837
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1516.png",Sky Hits DE
+http://skdn.redi-vo.com/iptv/ch1516?code=240137685662837&key=18346
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1522.png",TNT Glitz DE
+http://skdn.redi-vo.com/iptv/ch1522?code=240137685662837&key=18282
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1518.png",TNT Series DE
+http://skdn.redi-vo.com/iptv/ch1518?code=240137685662837&key=10733
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/409.png",NAT Geo WILD HD
+http://skdn.redi-vo.com/iptv/ch409?code=240137685662837&key=58657
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/410.png",Discovery HD
+http://skdn.redi-vo.com/iptv/ch410?code=240137685662837&key=32658
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/408.png",Nat. Geo DE
+http://skdn.redi-vo.com/iptv/ch408?code=240137685662837&key=59101
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/414.png",Syfy DE
+http://skdn.redi-vo.com/iptv/ch414?code=240137685662837&key=12124
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1511.png",Universal DE
+http://skdn.redi-vo.com/iptv/ch1511?code=240137685662837&key=16258
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1504.png",History DE
+http://skdn.redi-vo.com/iptv/ch1504?code=240137685662837&key=52278
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1501.png",Disney Cinemagic DE
+http://skdn.redi-vo.com/iptv/ch1501?code=240137685662837&key=23775
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1500.png",Disney Channel DE
+http://skdn.redi-vo.com/iptv/ch1500?code=240137685662837&key=28671
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/404.png",Disney Junior DE
+http://skdn.redi-vo.com/iptv/ch404?code=240137685662837&key=30688
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/421.png",Kika DE
+http://skdn.redi-vo.com/iptv/ch421?code=240137685662837&key=37646
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1515.png",13 Street DE
+http://skdn.redi-vo.com/iptv/ch1515?code=240137685662837&key=27387
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1513.png",E. DE
+http://skdn.redi-vo.com/iptv/ch1513?code=240137685662837&key=21336
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/416.png",ZDF
+http://skdn.redi-vo.com/iptv/ch416?code=240137685662837&key=31181
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/417.png",ZDF Info
+http://skdn.redi-vo.com/iptv/ch417?code=240137685662837&key=51698
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1506.png",ZDF Kultur
+http://skdn.redi-vo.com/iptv/ch1506?code=240137685662837&key=64177
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1505.png",ZDF Neo
+http://skdn.redi-vo.com/iptv/ch1505?code=240137685662837&key=44012
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1524.png",ARTE DE
+http://skdn.redi-vo.com/iptv/ch1524?code=240137685662837&key=48221
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1525.png",Das Erst
+http://skdn.redi-vo.com/iptv/ch1525?code=240137685662837&key=25664
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1512.png",PRO 7 Maxx
+http://skdn.redi-vo.com/iptv/ch1512?code=240137685662837&key=32002
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/418.png",RTL DE
+http://skdn.redi-vo.com/iptv/ch418?code=240137685662837&key=51067
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1526.png",Super RTL DE
+http://skdn.redi-vo.com/iptv/ch1526?code=240137685662837&key=58066
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/419.png",RTL 2
+http://skdn.redi-vo.com/iptv/ch419?code=240137685662837&key=47577
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1527.png",RTL Living DE
+http://skdn.redi-vo.com/iptv/ch1527?code=240137685662837&key=27778
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1503.png",RTL Crime DE
+http://skdn.redi-vo.com/iptv/ch1503?code=240137685662837&key=44464
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1528.png",RTL Nitro DE
+http://skdn.redi-vo.com/iptv/ch1528?code=240137685662837&key=39100
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1507.png",SAT 1
+http://skdn.redi-vo.com/iptv/ch1507?code=240137685662837&key=54170
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1509.png",Kabel 1
+http://skdn.redi-vo.com/iptv/ch1509?code=240137685662837&key=59327
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1510.png",Sixx
+http://skdn.redi-vo.com/iptv/ch1510?code=240137685662837&key=12104
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1508.png",PRO 7
+http://skdn.redi-vo.com/iptv/ch1508?code=240137685662837&key=24690
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1502.png",NTV DE
+http://skdn.redi-vo.com/iptv/ch1502?code=240137685662837&key=50624
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/425.png",3 Sat
+http://skdn.redi-vo.com/iptv/ch425?code=240137685662837&key=16633
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/415.png",VOX
+http://skdn.redi-vo.com/iptv/ch415?code=240137685662837&key=56533
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/1521.png",Sky Bundesliga 1 DE
+http://skdn.redi-vo.com/iptv/ch1521?code=240137685662837&key=26400
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/x1531.png",Sky Bundesliga 2 DE
+http://skdn.redi-vo.com/iptv/chx1531?code=240137685662837&key=16823
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/x1532.png",Sky Bundesliga 3 DE
+http://skdn.redi-vo.com/iptv/chx1532?code=240137685662837&key=53349
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/x1533.png",Sky Bundesliga 4 DE
+http://skdn.redi-vo.com/iptv/chx1533?code=240137685662837&key=52588
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/x1534.png",Sky Bundesliga 5 DE
+http://skdn.redi-vo.com/iptv/chx1534?code=240137685662837&key=31589
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/x1535.png",Sky Bundesliga 6 DE
+http://skdn.redi-vo.com/iptv/chx1535?code=240137685662837&key=51130
+#EXTINF:0 group-title="SKY DE"tvg-logo="http://logo.ddnb.tn/logochanel/x1536.png",Sky Bundesliga 7 DE
+http://skdn.redi-vo.com/iptv/chx1536?code=240137685662837&key=11283
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1860.png",BBC News
+http://skdn.redi-vo.com/iptv/ch1860?code=240137685662837&key=10810
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1800.png",BBC1
+http://skdn.redi-vo.com/iptv/ch1800?code=240137685662837&key=58790
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1801.png",BBC2
+http://skdn.redi-vo.com/iptv/ch1801?code=240137685662837&key=55260
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1802.png",CBBC
+http://skdn.redi-vo.com/iptv/ch1802?code=240137685662837&key=14739
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1803.png",BBC4
+http://skdn.redi-vo.com/iptv/ch1803?code=240137685662837&key=38898
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1898.png",CNN UK
+http://skdn.redi-vo.com/iptv/ch1898?code=240137685662837&key=36322
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1805.png",ITV 1 UK
+http://skdn.redi-vo.com/iptv/ch1805?code=240137685662837&key=48412
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1806.png",ITV 2 UK
+http://skdn.redi-vo.com/iptv/ch1806?code=240137685662837&key=50630
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1946.png",Itv 3 UK
+http://skdn.redi-vo.com/iptv/ch1946?code=240137685662837&key=30299
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1808.png",ITV 4 UK
+http://skdn.redi-vo.com/iptv/ch1808?code=240137685662837&key=10976
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1804.png",ITV BE
+http://skdn.redi-vo.com/iptv/ch1804?code=240137685662837&key=57442
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1807.png",C ITV
+http://skdn.redi-vo.com/iptv/ch1807?code=240137685662837&key=12870
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1816.png",STV UK HD
+http://skdn.redi-vo.com/iptv/ch1816?code=240137685662837&key=31909
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1892.png",UTV UK HD
+http://skdn.redi-vo.com/iptv/ch1892?code=240137685662837&key=60537
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/911.png",Channel 5 UK
+http://skdn.redi-vo.com/iptv/ch911?code=240137685662837&key=47142
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1938.png",5 USA UK
+http://skdn.redi-vo.com/iptv/ch1938?code=240137685662837&key=22465
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1894.png",5 Stars UK
+http://skdn.redi-vo.com/iptv/ch1894?code=240137685662837&key=12245
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1896.png",My 5 UK
+http://skdn.redi-vo.com/iptv/ch1896?code=240137685662837&key=38476
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/910.png",Channel 4 UK
+http://skdn.redi-vo.com/iptv/ch910?code=240137685662837&key=38668
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1891.png",Film 4 UK
+http://skdn.redi-vo.com/iptv/ch1891?code=240137685662837&key=45371
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1934.png",4 Music UK
+http://skdn.redi-vo.com/iptv/ch1934?code=240137685662837&key=25771
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1813.png",E-4 UK
+http://skdn.redi-vo.com/iptv/ch1813?code=240137685662837&key=16438
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1812.png",4 Seven UK
+http://skdn.redi-vo.com/iptv/ch1812?code=240137685662837&key=39819
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1940.png",More 4 UK
+http://skdn.redi-vo.com/iptv/ch1940?code=240137685662837&key=17890
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1835.png",CBS Reality
+http://skdn.redi-vo.com/iptv/ch1835?code=240137685662837&key=52191
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1836.png",CBS Action
+http://skdn.redi-vo.com/iptv/ch1836?code=240137685662837&key=40255
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1837.png",CBS Drama
+http://skdn.redi-vo.com/iptv/ch1837?code=240137685662837&key=45240
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1935.png",Sky News UK
+http://skdn.redi-vo.com/iptv/ch1935?code=240137685662837&key=58343
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
+http://skdn.redi-vo.com/iptv/ch1053?code=240137685662837&key=55178
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
+http://skdn.redi-vo.com/iptv/ch922?code=240137685662837&key=50723
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
+http://skdn.redi-vo.com/iptv/ch937?code=240137685662837&key=22233
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
+http://skdn.redi-vo.com/iptv/ch914?code=240137685662837&key=61071
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
+http://skdn.redi-vo.com/iptv/ch915?code=240137685662837&key=29891
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
+http://skdn.redi-vo.com/iptv/ch916?code=240137685662837&key=28938
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
+http://skdn.redi-vo.com/iptv/ch931?code=240137685662837&key=31327
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828?code=240137685662837&key=53268
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=240137685662837&key=16022
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1830?code=240137685662837&key=47435
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",BT Sport Europe
+http://skdn.redi-vo.com/iptv/ch1831?code=240137685662837&key=58189
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1832.png",Setana Sport 1
+http://skdn.redi-vo.com/iptv/ch1832?code=240137685662837&key=27428
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
+http://skdn.redi-vo.com/iptv/ch1833?code=240137685662837&key=44068
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1834.png",Premiere Sport UK
+http://skdn.redi-vo.com/iptv/ch1834?code=240137685662837&key=61906
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport F1 UK
+http://skdn.redi-vo.com/iptv/ch930?code=240137685662837&key=30728
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/929.png",Eurosport 1 UK
+http://skdn.redi-vo.com/iptv/ch929?code=240137685662837&key=19443
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/918.png",Eurosport 2
+http://skdn.redi-vo.com/iptv/ch918?code=240137685662837&key=58291
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1858.png",Front Runner UK
+http://skdn.redi-vo.com/iptv/ch1858?code=240137685662837&key=18666
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1944.png",Front runner 2 UK
+http://skdn.redi-vo.com/iptv/ch1944?code=240137685662837&key=48798
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1852.png",Free Sport UK
+http://skdn.redi-vo.com/iptv/ch1852?code=240137685662837&key=31875
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/927.png",Manchester Ud. TV
+http://skdn.redi-vo.com/iptv/ch927?code=240137685662837&key=22704
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1700.png",Sony Movies UK
+http://skdn.redi-vo.com/iptv/ch1700?code=240137685662837&key=32229
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1809.png",SKY One UK
+http://skdn.redi-vo.com/iptv/ch1809?code=240137685662837&key=15551
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1810.png",SKY two UK
+http://skdn.redi-vo.com/iptv/ch1810?code=240137685662837&key=17881
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1055.png",Sky Select UK
+http://skdn.redi-vo.com/iptv/ch1055?code=240137685662837&key=29248
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1054.png",Sky Thriller UK
+http://skdn.redi-vo.com/iptv/ch1054?code=240137685662837&key=64564
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/924.png",Sky Family UK
+http://skdn.redi-vo.com/iptv/ch924?code=240137685662837&key=37650
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/919.png",Sky Comedy UK
+http://skdn.redi-vo.com/iptv/ch919?code=240137685662837&key=58849
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/917.png",Sky Action UK
+http://skdn.redi-vo.com/iptv/ch917?code=240137685662837&key=50078
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/909.png",Sky Select UK
+http://skdn.redi-vo.com/iptv/ch909?code=240137685662837&key=59518
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/908.png",Sky Horror UK
+http://skdn.redi-vo.com/iptv/ch908?code=240137685662837&key=46109
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/907.png",Sky Premiere UK
+http://skdn.redi-vo.com/iptv/ch907?code=240137685662837&key=59108
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/925.png",Sky Living UK
+http://skdn.redi-vo.com/iptv/ch925?code=240137685662837&key=30831
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/905.png",Fox UK
+http://skdn.redi-vo.com/iptv/ch905?code=240137685662837&key=58296
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/906.png",Sky Animal UK
+http://skdn.redi-vo.com/iptv/ch906?code=240137685662837&key=39743
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/923.png",Discovery Science UK
+http://skdn.redi-vo.com/iptv/ch923?code=240137685662837&key=41623
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/928.png",Discovery Showcase U
+http://skdn.redi-vo.com/iptv/ch928?code=240137685662837&key=22915
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/934.png",Discovery History UK
+http://skdn.redi-vo.com/iptv/ch934?code=240137685662837&key=48893
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1825.png",Discovery Ch. UK
+http://skdn.redi-vo.com/iptv/ch1825?code=240137685662837&key=60080
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1819.png",Food Network UK
+http://skdn.redi-vo.com/iptv/ch1819?code=240137685662837&key=53594
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/936.png",Disney Junior UK
+http://skdn.redi-vo.com/iptv/ch936?code=240137685662837&key=13366
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/958.png",Sky Disney UK
+http://skdn.redi-vo.com/iptv/ch958?code=240137685662837&key=61283
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1820.png",Disney XD UK
+http://skdn.redi-vo.com/iptv/ch1820?code=240137685662837&key=61701
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/912.png",Nick Jr. Too UK
+http://skdn.redi-vo.com/iptv/ch912?code=240137685662837&key=34625
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/913.png",Baby Tv UK
+http://skdn.redi-vo.com/iptv/ch913?code=240137685662837&key=13614
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/932.png",Nick Jr. UK
+http://skdn.redi-vo.com/iptv/ch932?code=240137685662837&key=22062
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1817.png",Pop Max UK
+http://skdn.redi-vo.com/iptv/ch1817?code=240137685662837&key=35646
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1936.png",Pop UK
+http://skdn.redi-vo.com/iptv/ch1936?code=240137685662837&key=36416
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1893.png",Tiny Pop UK
+http://skdn.redi-vo.com/iptv/ch1893?code=240137685662837&key=60962
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1945.png",Euronews UK
+http://skdn.redi-vo.com/iptv/ch1945?code=240137685662837&key=26568
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1826.png",CNBC UK
+http://skdn.redi-vo.com/iptv/ch1826?code=240137685662837&key=26324
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1943.png",Dave UK
+http://skdn.redi-vo.com/iptv/ch1943?code=240137685662837&key=14823
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1942.png",Really UK
+http://skdn.redi-vo.com/iptv/ch1942?code=240137685662837&key=12981
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1941.png",DRAMA UK
+http://skdn.redi-vo.com/iptv/ch1941?code=240137685662837&key=15987
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1939.png",Keep it country UK
+http://skdn.redi-vo.com/iptv/ch1939?code=240137685662837&key=45232
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1937.png",True Movies UK
+http://skdn.redi-vo.com/iptv/ch1937?code=240137685662837&key=35399
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1900.png",Bloomber UK
+http://skdn.redi-vo.com/iptv/ch1900?code=240137685662837&key=24486
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1899.png",Quest UK
+http://skdn.redi-vo.com/iptv/ch1899?code=240137685662837&key=43132
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1897.png",Community
+http://skdn.redi-vo.com/iptv/ch1897?code=240137685662837&key=22740
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1895.png",Yesterday UK
+http://skdn.redi-vo.com/iptv/ch1895?code=240137685662837&key=55971
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1859.png",My channel UK
+http://skdn.redi-vo.com/iptv/ch1859?code=240137685662837&key=38687
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1857.png",Home UK
+http://skdn.redi-vo.com/iptv/ch1857?code=240137685662837&key=52813
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1856.png",Pick TV UK
+http://skdn.redi-vo.com/iptv/ch1856?code=240137685662837&key=29364
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1855.png",PBS America UK
+http://skdn.redi-vo.com/iptv/ch1855?code=240137685662837&key=54208
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1854.png",VIVA UK
+http://skdn.redi-vo.com/iptv/ch1854?code=240137685662837&key=45381
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1853.png",Starz UK
+http://skdn.redi-vo.com/iptv/ch1853?code=240137685662837&key=55851
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1851.png",True entertainment UK
+http://skdn.redi-vo.com/iptv/ch1851?code=240137685662837&key=46543
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1850.png",Spike UK
+http://skdn.redi-vo.com/iptv/ch1850?code=240137685662837&key=34321
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1849.png",Blaze UK
+http://skdn.redi-vo.com/iptv/ch1849?code=240137685662837&key=45526
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1848.png",Flava UK
+http://skdn.redi-vo.com/iptv/ch1848?code=240137685662837&key=63797
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1818.png",Your Tv UK
+http://skdn.redi-vo.com/iptv/ch1818?code=240137685662837&key=56894
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1815.png",True Crime UK
+http://skdn.redi-vo.com/iptv/ch1815?code=240137685662837&key=43742
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1814.png",Showcase UK
+http://skdn.redi-vo.com/iptv/ch1814?code=240137685662837&key=57669
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1811.png",TV-ONE UK
+http://skdn.redi-vo.com/iptv/ch1811?code=240137685662837&key=49639
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/956.png",TLC UK
+http://skdn.redi-vo.com/iptv/ch956?code=240137685662837&key=63980
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1822.png",Horse and Country UK
+http://skdn.redi-vo.com/iptv/ch1822?code=240137685662837&key=42198
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1823.png",Travel Ch. UK
+http://skdn.redi-vo.com/iptv/ch1823?code=240137685662837&key=26100
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1824.png",Tru TV UK
+http://skdn.redi-vo.com/iptv/ch1824?code=240137685662837&key=19078
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1827.png",S4cdigidol
+http://skdn.redi-vo.com/iptv/ch1827?code=240137685662837&key=20092
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1839.png",Horror Ch. UK
+http://skdn.redi-vo.com/iptv/ch1839?code=240137685662837&key=56139
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1840.png",ABN UK
+http://skdn.redi-vo.com/iptv/ch1840?code=240137685662837&key=23586
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1841.png",Channels 24
+http://skdn.redi-vo.com/iptv/ch1841?code=240137685662837&key=20336
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1842.png",Irish TV
+http://skdn.redi-vo.com/iptv/ch1842?code=240137685662837&key=34591
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1843.png",Now Music
+http://skdn.redi-vo.com/iptv/ch1843?code=240137685662837&key=42582
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1845.png",Movies4Men
+http://skdn.redi-vo.com/iptv/ch1845?code=240137685662837&key=56501
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1846.png",Setana UK
+http://skdn.redi-vo.com/iptv/ch1846?code=240137685662837&key=12100
+#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1847.png",Channel S
+http://skdn.redi-vo.com/iptv/ch1847?code=240137685662837&key=22659
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1316.png",Rai 1 IT
+http://skdn.redi-vo.com/iptv/ch1316?code=240137685662837&key=33480
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1317.png",Rai 2 IT
+http://skdn.redi-vo.com/iptv/ch1317?code=240137685662837&key=35063
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1318.png",Rai 3 IT
+http://skdn.redi-vo.com/iptv/ch1318?code=240137685662837&key=16819
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1332.png",Rai 4 IT
+http://skdn.redi-vo.com/iptv/ch1332?code=240137685662837&key=37398
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1903.png",RAI 5 IT
+http://skdn.redi-vo.com/iptv/ch1903?code=240137685662837&key=59734
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1331.png",Rai Movie IT
+http://skdn.redi-vo.com/iptv/ch1331?code=240137685662837&key=10861
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1337.png",Rai Premium IT
+http://skdn.redi-vo.com/iptv/ch1337?code=240137685662837&key=42787
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1904.png",RAI Yoyo IT
+http://skdn.redi-vo.com/iptv/ch1904?code=240137685662837&key=13728
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/992.png",Rai Scuola IT
+http://skdn.redi-vo.com/iptv/ch992?code=240137685662837&key=30248
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1339.png",Rai Gulp IT
+http://skdn.redi-vo.com/iptv/ch1339?code=240137685662837&key=44327
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/985.png",Rai Nettuno IT
+http://skdn.redi-vo.com/iptv/ch985?code=240137685662837&key=41944
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1338.png",Rai Storia IT
+http://skdn.redi-vo.com/iptv/ch1338?code=240137685662837&key=26152
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1315.png",Rai Sport 1 IT
+http://skdn.redi-vo.com/iptv/ch1315?code=240137685662837&key=58687
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1310.png",Rai News IT
+http://skdn.redi-vo.com/iptv/ch1310?code=240137685662837&key=17434
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/995.png",Sky Tg 24 IT
+http://skdn.redi-vo.com/iptv/ch995?code=240137685662837&key=25226
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/998.png",Tg Com 24 IT
+http://skdn.redi-vo.com/iptv/ch998?code=240137685662837&key=56155
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1540.png",TG Norba 24 IT
+http://skdn.redi-vo.com/iptv/ch1540?code=240137685662837&key=17030
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1340.png",Italia 1
+http://skdn.redi-vo.com/iptv/ch1340?code=240137685662837&key=18520
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1313.png",Rete 4 IT
+http://skdn.redi-vo.com/iptv/ch1313?code=240137685662837&key=22443
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1309.png",Canal 5 IT
+http://skdn.redi-vo.com/iptv/ch1309?code=240137685662837&key=44591
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1311.png",La 5 IT
+http://skdn.redi-vo.com/iptv/ch1311?code=240137685662837&key=33267
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1920.png",LA 7 IT
+http://skdn.redi-vo.com/iptv/ch1920?code=240137685662837&key=10695
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/980.png",LA 7D IT
+http://skdn.redi-vo.com/iptv/ch980?code=240137685662837&key=13084
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1333.png",TV 8 IT
+http://skdn.redi-vo.com/iptv/ch1333?code=240137685662837&key=15888
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1335.png",Focus TV IT
+http://skdn.redi-vo.com/iptv/ch1335?code=240137685662837&key=37506
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1334.png",Giallo TV IT
+http://skdn.redi-vo.com/iptv/ch1334?code=240137685662837&key=52006
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1319.png",TV2000 IT
+http://skdn.redi-vo.com/iptv/ch1319?code=240137685662837&key=39320
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1320.png",Cielo IT
+http://skdn.redi-vo.com/iptv/ch1320?code=240137685662837&key=35666
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1395.png",Nove IT
+http://skdn.redi-vo.com/iptv/ch1395?code=240137685662837&key=22895
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1985.png",Dea Kids IT
+http://skdn.redi-vo.com/iptv/ch1985?code=240137685662837&key=11191
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1984.png",Dea Junior IT
+http://skdn.redi-vo.com/iptv/ch1984?code=240137685662837&key=61985
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/999.png",K2 IT
+http://skdn.redi-vo.com/iptv/ch999?code=240137685662837&key=61083
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/984.png",POP IT
+http://skdn.redi-vo.com/iptv/ch984?code=240137685662837&key=40329
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1983.png",Nickelodeon IT
+http://skdn.redi-vo.com/iptv/ch1983?code=240137685662837&key=15958
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1982.png",Nick Junior IT
+http://skdn.redi-vo.com/iptv/ch1982?code=240137685662837&key=59612
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1341.png",Boing IT
+http://skdn.redi-vo.com/iptv/ch1341?code=240137685662837&key=56006
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1343.png",Cartoonito IT
+http://skdn.redi-vo.com/iptv/ch1343?code=240137685662837&key=45614
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1981.png",Disney XD IT
+http://skdn.redi-vo.com/iptv/ch1981?code=240137685662837&key=63461
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1980.png",Disney Junior IT
+http://skdn.redi-vo.com/iptv/ch1980?code=240137685662837&key=36785
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1999.png",Disney Ch. IT
+http://skdn.redi-vo.com/iptv/ch1999?code=240137685662837&key=14095
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1916.png",Cartoon Network IT
+http://skdn.redi-vo.com/iptv/ch1916?code=240137685662837&key=50641
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/983.png",Mediaset 1 IT
+http://skdn.redi-vo.com/iptv/ch983?code=240137685662837&key=34510
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1312.png",Mediaset 2 IT
+http://skdn.redi-vo.com/iptv/ch1312?code=240137685662837&key=10926
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1314.png",Mediaset Extra IT
+http://skdn.redi-vo.com/iptv/ch1314?code=240137685662837&key=12531
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1930.png",Premium Cinema IT
+http://skdn.redi-vo.com/iptv/ch1930?code=240137685662837&key=10403
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1928.png",Premium Comedy IT
+http://skdn.redi-vo.com/iptv/ch1928?code=240137685662837&key=16706
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1922.png",Premium Crime IT
+http://skdn.redi-vo.com/iptv/ch1922?code=240137685662837&key=43711
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1923.png",Premium Action IT
+http://skdn.redi-vo.com/iptv/ch1923?code=240137685662837&key=37440
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1906.png",Premium Stories IT
+http://skdn.redi-vo.com/iptv/ch1906?code=240137685662837&key=50253
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1909.png",Premium Energy IT
+http://skdn.redi-vo.com/iptv/ch1909?code=240137685662837&key=21747
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1908.png",Premium Emotion IT
+http://skdn.redi-vo.com/iptv/ch1908?code=240137685662837&key=41506
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1902.png",Paramount Ch. IT
+http://skdn.redi-vo.com/iptv/ch1902?code=240137685662837&key=27379
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/997.png",Cine Sony IT
+http://skdn.redi-vo.com/iptv/ch997?code=240137685662837&key=38190
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/982.png",Spike IT
+http://skdn.redi-vo.com/iptv/ch982?code=240137685662837&key=26078
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1905.png",Joi IT
+http://skdn.redi-vo.com/iptv/ch1905?code=240137685662837&key=41568
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1931.png",Fox IT
+http://skdn.redi-vo.com/iptv/ch1931?code=240137685662837&key=11840
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1377.png",Fox Crime IT
+http://skdn.redi-vo.com/iptv/ch1377?code=240137685662837&key=39111
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1323.png",Fox Life IT
+http://skdn.redi-vo.com/iptv/ch1323?code=240137685662837&key=38129
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1932.png",Fox IT
+http://skdn.redi-vo.com/iptv/ch1932?code=240137685662837&key=38681
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1329.png",Sky Uno IT
+http://skdn.redi-vo.com/iptv/ch1329?code=240137685662837&key=26813
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1301.png",Sky Cinema Uno IT
+http://skdn.redi-vo.com/iptv/ch1301?code=240137685662837&key=35862
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1918.png",Sky Atlantic IT
+http://skdn.redi-vo.com/iptv/ch1918?code=240137685662837&key=56027
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1302.png",Sky Cinema Due IT
+http://skdn.redi-vo.com/iptv/ch1302?code=240137685662837&key=11470
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1300.png",Sky Cinema Suspence
+http://skdn.redi-vo.com/iptv/ch1300?code=240137685662837&key=49324
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1342.png",Top Crime IT
+http://skdn.redi-vo.com/iptv/ch1342?code=240137685662837&key=35344
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1303.png",Sky Cinema Family IT
+http://skdn.redi-vo.com/iptv/ch1303?code=240137685662837&key=61151
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1996.png",Sky Cinema Comedy IT
+http://skdn.redi-vo.com/iptv/ch1996?code=240137685662837&key=29221
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1917.png",Sky Cinema 24 IT
+http://skdn.redi-vo.com/iptv/ch1917?code=240137685662837&key=41519
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/996.png",Food NetWork IT
+http://skdn.redi-vo.com/iptv/ch996?code=240137685662837&key=22820
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1993.png",Sky Cinema Romance IT
+http://skdn.redi-vo.com/iptv/ch1993?code=240137685662837&key=12274
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1994.png",Sky Cinema Drama IT
+http://skdn.redi-vo.com/iptv/ch1994?code=240137685662837&key=13169
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1995.png",Sky Cinema Classic IT
+http://skdn.redi-vo.com/iptv/ch1995?code=240137685662837&key=48109
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/955.png",SKY Sport 24 IT
+http://skdn.redi-vo.com/iptv/ch955?code=240137685662837&key=34106
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/953.png",SKY Sport Uno IT
+http://skdn.redi-vo.com/iptv/ch953?code=240137685662837&key=59220
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/954.png",SKY Sport Serie A IT
+http://skdn.redi-vo.com/iptv/ch954?code=240137685662837&key=33821
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
+http://skdn.redi-vo.com/iptv/ch1910?code=240137685662837&key=37963
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1927.png",Sky Sport Arena IT
+http://skdn.redi-vo.com/iptv/ch1927?code=240137685662837&key=31453
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1990.png",Sky Sport Collection IT
+http://skdn.redi-vo.com/iptv/ch1990?code=240137685662837&key=31964
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1991.png",Sky Sport NBA IT
+http://skdn.redi-vo.com/iptv/ch1991?code=240137685662837&key=60935
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1992.png",Sky Sport MotoGp IT
+http://skdn.redi-vo.com/iptv/ch1992?code=240137685662837&key=32873
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1325.png",Sky Sport F1
+http://skdn.redi-vo.com/iptv/ch1325?code=240137685662837&key=48558
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1306.png",Sky Calcio 1 IT
+http://skdn.redi-vo.com/iptv/ch1306?code=240137685662837&key=25427
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1307.png",Sky Calcio 2 IT
+http://skdn.redi-vo.com/iptv/ch1307?code=240137685662837&key=50811
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1308.png",Sky Calcio 3 IT
+http://skdn.redi-vo.com/iptv/ch1308?code=240137685662837&key=36350
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1926.png",Sky Calcio 4 IT
+http://skdn.redi-vo.com/iptv/ch1926?code=240137685662837&key=51968
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1911.png",Sky Calcio 5 IT
+http://skdn.redi-vo.com/iptv/ch1911?code=240137685662837&key=13439
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1912.png",Sky Calcio 6 IT
+http://skdn.redi-vo.com/iptv/ch1912?code=240137685662837&key=38159
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1913.png",Sky Calcio 7 IT
+http://skdn.redi-vo.com/iptv/ch1913?code=240137685662837&key=22297
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1914.png",Sky Calcio 8 IT
+http://skdn.redi-vo.com/iptv/ch1914?code=240137685662837&key=12266
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1915.png",Sky Calcio 9 IT
+http://skdn.redi-vo.com/iptv/ch1915?code=240137685662837&key=47655
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1933.png",Sport Italia IT
+http://skdn.redi-vo.com/iptv/ch1933?code=240137685662837&key=25342
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1924.png",Eurosport 1 IT
+http://skdn.redi-vo.com/iptv/ch1924?code=240137685662837&key=51539
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1925.png",Eurosport 2 IT
+http://skdn.redi-vo.com/iptv/ch1925?code=240137685662837&key=30682
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1989.png",Inter Ch. IT
+http://skdn.redi-vo.com/iptv/ch1989?code=240137685662837&key=15320
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1988.png",Lazio Ch. IT
+http://skdn.redi-vo.com/iptv/ch1988?code=240137685662837&key=30103
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1987.png",Milan Ch. IT
+http://skdn.redi-vo.com/iptv/ch1987?code=240137685662837&key=58826
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1986.png",Roma Ch. IT
+http://skdn.redi-vo.com/iptv/ch1986?code=240137685662837&key=48331
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/993.png",Motor Trend IT
+http://skdn.redi-vo.com/iptv/ch993?code=240137685662837&key=26946
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/994.png",Zelig Sport IT
+http://skdn.redi-vo.com/iptv/ch994?code=240137685662837&key=38349
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1544.png",Super Tennis IT
+http://skdn.redi-vo.com/iptv/ch1544?code=240137685662837&key=39712
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1901.png",Deejay IT
+http://skdn.redi-vo.com/iptv/ch1901?code=240137685662837&key=43168
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/981.png",VH-1 IT
+http://skdn.redi-vo.com/iptv/ch981?code=240137685662837&key=18949
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1322.png",RTL 102.5 IT
+http://skdn.redi-vo.com/iptv/ch1322?code=240137685662837&key=24287
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1541.png",Radio Norba IT
+http://skdn.redi-vo.com/iptv/ch1541?code=240137685662837&key=61144
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1542.png",Radio Freccia IT
+http://skdn.redi-vo.com/iptv/ch1542?code=240137685662837&key=37767
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/950.png",Prima Fila 1 IT
+http://skdn.redi-vo.com/iptv/ch950?code=240137685662837&key=11857
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/951.png",Prima Fila 2 IT
+http://skdn.redi-vo.com/iptv/ch951?code=240137685662837&key=42029
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/952.png",Prima Fila 3 IT
+http://skdn.redi-vo.com/iptv/ch952?code=240137685662837&key=63580
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1545.png",Pescare and cacciare IT
+http://skdn.redi-vo.com/iptv/ch1545?code=240137685662837&key=48406
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1327.png",Nat. Geo.  IT
+http://skdn.redi-vo.com/iptv/ch1327?code=240137685662837&key=45507
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1997.png",Nat. Geo. Wild IT
+http://skdn.redi-vo.com/iptv/ch1997?code=240137685662837&key=47063
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1998.png",Nat. Geo. People IT
+http://skdn.redi-vo.com/iptv/ch1998?code=240137685662837&key=22207
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1304.png",Discovery IT
+http://skdn.redi-vo.com/iptv/ch1304?code=240137685662837&key=38459
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1328.png",Discovery Science IT
+http://skdn.redi-vo.com/iptv/ch1328?code=240137685662837&key=47372
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1391.png",Discovery  Real Time
+http://skdn.redi-vo.com/iptv/ch1391?code=240137685662837&key=63192
+#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1330.png",Dmax IT
+http://skdn.redi-vo.com/iptv/ch1330?code=240137685662837&key=39670
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6511.png",TVP Info Cy
+http://skdn.redi-vo.com/iptv/ch6511?code=240137685662837&key=10492
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6512.png",TVP Cy
+http://skdn.redi-vo.com/iptv/ch6512?code=240137685662837&key=56144
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6513.png",TVP 1 Cy
+http://skdn.redi-vo.com/iptv/ch6513?code=240137685662837&key=13308
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6514.png",TVP 2 Cy
+http://skdn.redi-vo.com/iptv/ch6514?code=240137685662837&key=44187
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6515.png",TVP 2 Cy
+http://skdn.redi-vo.com/iptv/ch6515?code=240137685662837&key=30778
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6516.png",TVP ABC Cy
+http://skdn.redi-vo.com/iptv/ch6516?code=240137685662837&key=21486
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/4517.png",TVP Serial Cy
+http://skdn.redi-vo.com/iptv/ch4517?code=240137685662837&key=20346
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6518.png",Polsat Cy
+http://skdn.redi-vo.com/iptv/ch6518?code=240137685662837&key=20040
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6519.png",Polsat 2
+http://skdn.redi-vo.com/iptv/ch6519?code=240137685662837&key=29620
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6520.png",Eleven Sport 1 Cy
+http://skdn.redi-vo.com/iptv/ch6520?code=240137685662837&key=17027
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6521.png",Eleven Sport 2 Cy
+http://skdn.redi-vo.com/iptv/ch6521?code=240137685662837&key=62780
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6522.png",Eleven Sport 3 Cy
+http://skdn.redi-vo.com/iptv/ch6522?code=240137685662837&key=44023
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6523.png",Eleven Sport 4 Cy
+http://skdn.redi-vo.com/iptv/ch6523?code=240137685662837&key=26797
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6524.png",Cinemax 1 Cy
+http://skdn.redi-vo.com/iptv/ch6524?code=240137685662837&key=33768
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6525.png",Cinemax 2 Cy
+http://skdn.redi-vo.com/iptv/ch6525?code=240137685662837&key=18542
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6526.png",Canal+ Polska Cy
+http://skdn.redi-vo.com/iptv/ch6526?code=240137685662837&key=42624
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/4527.png",Canal+ Sport Cy
+http://skdn.redi-vo.com/iptv/ch4527?code=240137685662837&key=34486
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6528.png",Canal+ Sport 2 Cy
+http://skdn.redi-vo.com/iptv/ch6528?code=240137685662837&key=50734
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6529.png",Canal+ Family Polska
+http://skdn.redi-vo.com/iptv/ch6529?code=240137685662837&key=29917
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6530.png",Canal+ Serie Polska
+http://skdn.redi-vo.com/iptv/ch6530?code=240137685662837&key=41666
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/631.png",Canal+ Film Polska
+http://skdn.redi-vo.com/iptv/ch631?code=240137685662837&key=29901
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6532.png",Discovery Polska
+http://skdn.redi-vo.com/iptv/ch6532?code=240137685662837&key=40593
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6533.png",Nat Geo Cy
+http://skdn.redi-vo.com/iptv/ch6533?code=240137685662837&key=49421
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6534.png",Nat Geo Wild Cy
+http://skdn.redi-vo.com/iptv/ch6534?code=240137685662837&key=38539
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6535.png",N sport Cy
+http://skdn.redi-vo.com/iptv/ch6535?code=240137685662837&key=32644
+#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6536.png",Teletoon + Cy
+http://skdn.redi-vo.com/iptv/ch6536?code=240137685662837&key=28429
