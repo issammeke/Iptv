@@ -3967,3 +3967,104 @@ http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8?checkedby:iptv
 http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:iptvcat.com
 #EXTINF:0  group-title="Bosnia and Herzegovina" tvg-logo="https://i.imgur.com/AD3Ak7T.png",Hema Televizija
 http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
+
+#EXTINF:0  group-title="Sport" tvg-logo="",DIRECTV SPORTS 2
+http://plus-tv.us:8080/live/1899/1899/3671.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/1Tfidgz.png" ,Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/mOkpenX.png" ,Adjara Sports,SPORT : Adjarasport 1,SPORT | Adjarasport 1
+https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport" tvg-logo="https://i.imgur.com/mOkpenX.png" ,Adjara Sports 2,SPORT : Adjarasport 2,SPORT | Adjarasport 2
+https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/lsg8u59.png" ,Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0  group-title="Sport"tvg-logo="" ,Ads sport cricket,RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="http://127.0.0.1/" ,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0  group-title="Sport"tvg-logo="https://i.imgur.com/1M4zMdC.png",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/48134?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,ESPN HD
+http://doubleagechanmain.com:80/123456/123456/13433?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Espn  2 HD
+http://srv.maxptv.net:8080/BMW498/321321/171?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="",Espn  2 SD
+http://srv.maxptv.net:8080/BMW498/321321/170?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Espn Brasil HD
+http://srv.maxptv.net:8080/BMW498/321321/169?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Espn Brasil SD
+http://srv.maxptv.net:8080/BMW498/321321/168?checkedby:iptvcat.com
+#EXTINF:0  group-title="Sport"tvg-logo="",Espn Extra  SD
+http://srv.maxptv.net:8080/BMW498/321321/164?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Espn Extra HD
+http://srv.maxptv.net:8080/BMW498/321321/165?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="",Espn HD
+http://srv.maxptv.net:8080/BMW498/321321/167?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="",Espn SD
+http://srv.maxptv.net:8080/BMW498/321321/166?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="",Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/k29sgDw.png" ,Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/k29sgDw.png" ,Esporte Interativo Plus
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SKY SPORT 1 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59561?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SKY SPORT 24 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59562?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SKY SPORT FORMULA 1 HD
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59564?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Fox Sports 2 HD
+http://srv.maxptv.net:8080/BMW498/321321/529?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Fox Sports 2 SD
+http://srv.maxptv.net:8080/BMW498/321321/148?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Fox Sports HD
+http://srv.maxptv.net:8080/BMW498/321321/147?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,Fox Sports SD
+http://srv.maxptv.net:8080/BMW498/321321/146?checkedby:iptvcat.com
+#EXTINF:group-title="Sport"0 tvg-logo="" ,SporTV HD
+http://srv.maxptv.net:8080/BMW498/321321/49?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SporTV SD
+http://srv.maxptv.net:8080/BMW498/321321/48?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SporTV2 HD
+http://srv.maxptv.net:8080/BMW498/321321/47?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SporTV2 SD
+http://srv.maxptv.net:8080/BMW498/321321/46?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SporTV3 HD
+http://srv.maxptv.net:8080/BMW498/321321/45?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SporTV3 SD
+http://srv.maxptv.net:8080/BMW498/321321/44?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SPORTSNET 360
+http://doubleagechanmain.com:80/123456/123456/9181?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SPORTSNET EAST
+http://doubleagechanmain.com:80/123456/123456/9182?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SPORTSNET ONE
+http://doubleagechanmain.com:80/123456/123456/9183?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SPORTSNET ONTARIO
+http://doubleagechanmain.com:80/123456/123456/9184?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SPORTSNET PACIFIC
+http://doubleagechanmain.com:80/123456/123456/9185?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,SPORTSNET WEST
+http://doubleagechanmain.com:80/123456/123456/9187?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/lsg8u59.png" ,Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/2PoLaXw.png" ,NewTV Super sports HD,NewTV未来电视 超级体育
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/7qSbS53.png" ,Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="https://i.imgur.com/7qSbS53.png" ,Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,DIRECTV SPORTS (ECU)
+http://207.38.89.242:8080/live/17299/17299/10883.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,DIRECTV SPORTS (ECU)
+http://plus-tv.us:8080/live/1899/1899/10883.ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,DIRECTV SPORTS (ECU)
+http://plus-tv.us:8080/live/1899/1899/10883.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,DIRECTV SPORTS 1 HD
+http://207.38.89.242:8080/live/17299/17299/6595.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,DIRECTV SPORTS 1 HD
+http://plus-tv.us:8080/live/1899/1899/6595.ts?checkedby:iptvcat.com
+#EXTINF:0 group-title="Sport"tvg-logo="" ,DIRECTV SPORTS 1 HD
+http://plus-tv.us:8080/live/1899/1899/6595.m3u8?checkedby:iptvcat.com
